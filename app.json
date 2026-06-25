@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Jarvis Emergency",
+    "slug": "jarvis-rn-dashboard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "id.profesionalservis.jarvisemergency"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "id.profesionalservis.jarvisemergency"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0255809-e65c-412c-a50c-2beed58760b7"
+      }
+    }
+  }
+}
